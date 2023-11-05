@@ -1,6 +1,6 @@
 # KPMG-Data-Analysis-Virtual-Internship
 
-# SKILLS ACQUIRED SKILLS
+## SKILLS ACQUIRED SKILLS
 1. Data Quality Analysis
    
 2. Analytical Dashboard creation
